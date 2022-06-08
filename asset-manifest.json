@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/py-clash-bot/static/css/main.c2185446.css",
-    "main.js": "/py-clash-bot/static/js/main.2a38c74f.js",
+    "main.js": "/py-clash-bot/static/js/main.d643d445.js",
     "static/js/787.d37de791.chunk.js": "/py-clash-bot/static/js/787.d37de791.chunk.js",
     "static/media/memu_appearance_settings.webp": "/py-clash-bot/static/media/memu_appearance_settings.a0ea319a47fa3339b933.webp",
     "static/media/memu_display_settings.webp": "/py-clash-bot/static/media/memu_display_settings.2820c901e9337b1e3fec.webp",
@@ -9,11 +9,11 @@
     "static/media/memu_instance_settings.webp": "/py-clash-bot/static/media/memu_instance_settings.e040ad364a810fdd712f.webp",
     "index.html": "/py-clash-bot/index.html",
     "main.c2185446.css.map": "/py-clash-bot/static/css/main.c2185446.css.map",
-    "main.2a38c74f.js.map": "/py-clash-bot/static/js/main.2a38c74f.js.map",
+    "main.d643d445.js.map": "/py-clash-bot/static/js/main.d643d445.js.map",
     "787.d37de791.chunk.js.map": "/py-clash-bot/static/js/787.d37de791.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2185446.css",
-    "static/js/main.2a38c74f.js"
+    "static/js/main.d643d445.js"
   ]
 }
