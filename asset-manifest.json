@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/py-clash-bot/static/css/main.0b416a64.css",
-    "main.js": "/py-clash-bot/static/js/main.c44df90a.js",
+    "main.js": "/py-clash-bot/static/js/main.73df2f49.js",
     "static/js/496.86a2c105.chunk.js": "/py-clash-bot/static/js/496.86a2c105.chunk.js",
     "index.html": "/py-clash-bot/index.html",
     "main.0b416a64.css.map": "/py-clash-bot/static/css/main.0b416a64.css.map",
-    "main.c44df90a.js.map": "/py-clash-bot/static/js/main.c44df90a.js.map",
+    "main.73df2f49.js.map": "/py-clash-bot/static/js/main.73df2f49.js.map",
     "496.86a2c105.chunk.js.map": "/py-clash-bot/static/js/496.86a2c105.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b416a64.css",
-    "static/js/main.c44df90a.js"
+    "static/js/main.73df2f49.js"
   ]
 }
