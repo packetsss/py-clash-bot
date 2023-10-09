@@ -31,7 +31,7 @@ optional = true
 
 
 [tool.poetry.group.build.dependencies]
-poethepoet = "^0.24.0"
+poethepoet = "^0.24.1"
 lief = { version = "^0.14.0.dev0", source = "cx_freeze-dev" }
 cx-freeze = { version = "^6.16.0.dev10", source = "cx_freeze-dev" }
 
@@ -46,7 +46,7 @@ black = "^23.9.1"
 vulture = "^2.10"
 isort = "^5.12.0"
 prospector = "^1.10.2"
-poethepoet = "^0.24.0"
+poethepoet = "^0.24.1"
 
 
 [[tool.poetry.source]]
