@@ -32,7 +32,8 @@ optional = true
 
 [tool.poetry.group.build.dependencies]
 poethepoet = "^0.24.0"
-cx-freeze = { version = "^6.16.0.dev9", source = "cx_freeze-dev" }
+lief = { version = "^0.14.0.dev0", source = "cx_freeze-dev" }
+cx-freeze = { version = "^6.16.0.dev10", source = "cx_freeze-dev" }
 
 
 [tool.poetry.group.dev]
